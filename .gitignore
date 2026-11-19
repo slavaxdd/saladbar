@@ -1,5 +1,14 @@
-.pio
-.vscode/.browse.c_cpp.db*
+.pio/
+.pioenvs/
+.piolibdeps/
+
+
+.vscode/.browse.vc.db*
 .vscode/c_cpp_properties.json
 .vscode/launch.json
-.vscode/ipch
+.vscode/settings.json
+.vscode/tasks.json
+
+
+.DS_Store
+Thumbs.db
